@@ -10,5 +10,5 @@ This project simulates **power flow in a smart grid network** using the **Maximu
 - Visualization of the smart grid with capacities
 - Easy to extend for scenarios like line failures or dynamic capacity changes
 
-## Project Structure
+
 
